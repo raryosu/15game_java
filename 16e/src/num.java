@@ -95,7 +95,6 @@ public class num extends Applet implements MouseListener
 		}
 		switch(gameFlg){
 			case GAME_WAIT:
-				gv.drawString("Game Over", 100, 100);
 				gv.drawString("Click Start", 130, 130);
 				break;
 			case GAME_ING:
