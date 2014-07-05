@@ -1,6 +1,6 @@
 # About
 文化祭のために作ったゲームです。  
-[http://raryosu.github.io/game:title]で公開しています。
+["http://raryosu.github.io/game":title]で公開しています。
 
 # License
 
